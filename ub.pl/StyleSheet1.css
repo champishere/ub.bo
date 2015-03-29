@@ -1,0 +1,18 @@
+﻿body { 
+    background: gray;
+}
+.container {
+    background: white;
+    margin: 5% auto 5% auto;
+    width: 50%;
+    -webkit-box-shadow: 0px 0px 20px 3px;
+    -ms-box-shadow: 0px 0px 20px 3px;
+    box-shadow: 0px 0px 20px 3px;
+    padding: 30px;
+}
+.container h1 {
+    text-align: center;
+    -ms-text-shadow: 2px 2px 2px  2px;
+    text-shadow: 2px 2px 2px 2px #480000;
+    color: #480000;
+}
